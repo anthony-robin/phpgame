@@ -1,0 +1,29 @@
+\select@language {french}
+\contentsline {chapter}{\numberline {1}Le Programme}{3}
+\contentsline {section}{\numberline {1.1}Le contr\IeC {\^o}leur}{3}
+\contentsline {section}{\numberline {1.2}Classe Joueur}{3}
+\contentsline {section}{\numberline {1.3}Classe Jeu}{3}
+\contentsline {section}{\numberline {1.4}Les diff\IeC {\'e}rents jeux}{4}
+\contentsline {subsection}{\numberline {1.4.1}M\IeC {\'e}thodes communes aux diff\IeC {\'e}rents jeux}{4}
+\contentsline {subsection}{\numberline {1.4.2}Classe Nombre Myst\IeC {\`e}re}{4}
+\contentsline {paragraph}{niveauDifficultes\\}{4}
+\contentsline {paragraph}{debutJeu\\}{4}
+\contentsline {subsection}{\numberline {1.4.3}Classe MasterMind}{5}
+\contentsline {paragraph}{niveauDifficultes\\}{5}
+\contentsline {paragraph}{debutJeu\\}{5}
+\contentsline {subsection}{\numberline {1.4.4}Classe Vrai Ou Faux}{5}
+\contentsline {paragraph}{niveauDifficultes\\}{5}
+\contentsline {paragraph}{debutJeu\\}{5}
+\contentsline {subsection}{\numberline {1.4.5}Classe Questions R\IeC {\'e}ponses}{6}
+\contentsline {paragraph}{niveauDifficultes\\}{6}
+\contentsline {paragraph}{debutJeu\\}{6}
+\contentsline {subsection}{\numberline {1.4.6}Classe Calculatrice}{6}
+\contentsline {section}{\numberline {1.5}Classe Score}{6}
+\contentsline {paragraph}{4 m\IeC {\'e}thodes:\\}{6}
+\contentsline {paragraph}{Menu g\IeC {\'e}n\IeC {\'e}ral du site:\\}{6}
+\contentsline {paragraph}{Affichage des scores:\\}{6}
+\contentsline {paragraph}{Suppression des scores:\\}{7}
+\contentsline {chapter}{\numberline {2}Difficult\IeC {\'e}s}{8}
+\contentsline {section}{\numberline {2.1}L'encodage en UTF-8}{8}
+\contentsline {section}{\numberline {2.2}Les scores}{8}
+\contentsline {section}{\numberline {2.3}Lecture du fichier des Questions-R\IeC {\'e}ponses}{8}
