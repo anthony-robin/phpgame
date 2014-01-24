@@ -102,7 +102,7 @@ function initialisation($prenomJoueur){
 			echo "====================================\n";
 			echo "============= A PROPOS =============\n";
 			echo "====================================\n";
-			echo "Ce programme de mini-jeux a ete realise par Anthony ROBIN dans le cadre du Cours de PHP du Master1 DNR2I a Caen. Il a ete fait en PHP orientee objet (avec des classes).\nJ'ai utilise l'editeur Sublime Text 2 pour ce programme.\n";
+			echo "Ce programme de mini-jeux a ete realise par Anthony ROBIN dans le cadre du Cours de PHP du Master1 DNR2I a Caen. Il a ete fait en PHP orientee objet (avec des classes).\nJ'ai utilise l'editeur Sublime Text 2 / 3 pour ce programme.\n";
 
 			do{
 				echo "\n==> Saisir \"quitter\" pour revenir au menu principal: ";
